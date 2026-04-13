@@ -1,0 +1,1 @@
+This is a side project of mine to learn how to create websites using React by making my own portfolio website.
